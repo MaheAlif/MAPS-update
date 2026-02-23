@@ -521,4 +521,4 @@ W-F1 (%):   86.9  88.2  86.7  88.2  88.2  86.3  89.8  90.24
 
 ## 👤 Author
 A. M. Shahriar Rashid Mahe
-Md. Imran Bhuiya
+Md. Abdullah Al Imran Bhuiyan
